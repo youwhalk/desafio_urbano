@@ -1,7 +1,7 @@
-# desafio_urbano
+# Leia-me antes de clonar o projeto
 Repositorio para o projeto do desafio urbano vitalino advogados
 
-Situação do desafio: *Incompleto*
+Situação do desafio: Incompleto
 Explicação: Com base no meu conhecimento atual e com o tempo que me foi disposto, consegui fazer até certa parte.
             O Projeto em si está funcional, ele consegue ler um arquivo .csv e escrever na tela os dados que tem nele,
             a unica coisa que ficou faltando foi a questão do botão de enviar, quando a pessoa colocar o arquivo e clicar
